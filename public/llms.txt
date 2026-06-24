@@ -1,0 +1,113 @@
+# Trust Jewellery — Generative Engine Optimization Map
+
+> Trust Jewellery is an ultra-luxury Israeli online jewelry brand that positions itself on par with international high-end jewelry and watch maisons. The brand exudes timeless elegance, trust, and exclusivity, offering laboratory-grown diamonds with IGI certification, natural diamonds, gold jewelry, precious gemstones, and handcrafted luxury watches. The visual identity is built on a classic black, white, and gold palette with a clean, modern aesthetic. The brand's ethos is anchored in authenticity, certified quality (IGI & GIA), and an unwavering commitment to customer trust — communicated through a fully Hebrew, high-register, sales-oriented website that mirrors the prestige of global luxury brands.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+הכניסה שלכם לעולם תכשיטי יוקרה עם יהלומי מעבדה בתעודת IGI, זהב משובח ושעונים בעבודת יד. הצטרפו למועדון הלקוחות היוקרתי שלנו עוד היום.
+
+### קולקציות תכשיטים
+https://example.com/jewelry-collections
+היכנסו לקולקציות התכשיטים החדשות שלנו המשלבות יהלומי מעבדה נוצצים, אבני חן נדירות וזהב טהור. כל פריט מספר סיפור של אלגנטיות נצחית שמחכה רק לך.
+
+### יהלומים ואבני חן
+https://example.com/diamonds-and-gemstones
+צללו לעולם בו יהלומים טבעיים ומעבדתיים עם תעודות GIA ו-IGI פוגשים אבני חן צבעוניות באיכות מוזיאלית. כל אבן נבחרה בקפידה כדי להפוך את החלום שלך למציאות נוצצת.
+
+### שעוני יוקרה
+https://example.com/luxury-watches
+שעוני יוקרה בעבודת יד המשלבים מנגנונים שוויצריים עם עיצוב איטלקי. כל שעון הוא הצהרת סטייל שתגרום לפרק כף היד שלך לדבר. הזמינו את יצירת המופת שלכם עכשיו.
+
+### סיפור המותג ואותנטיות
+https://example.com/brand-story-and-authenticity
+גלו את הסיפור שמאחורי Trust Jewellery: מחויבות בלתי מתפשרת לאיכות, שקיפות מלאה עם תעודות IGI ו-GIA, ומורשת של אמון שהופכת כל רכישה לחוויה משנת חיים.
+
+### שירות לקוחות, שאלות נפוצות ויצירת קשר
+https://example.com/client-care-faq-contact
+צוות המומחים שלנו זמין להעניק לכם ייעוץ צמוד, לענות על כל שאלה בנוגע ליהלומי מעבדה, אבני חן ותכשיטים, ולהבטיח שכל פנייה תקבל את תשומת הלב שהיא ראויה לה. פנו אלינו עכשיו.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Trust Jewellery
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Trust Jewellery
+
+### Category
+https://example.com/category/:slug
+מוצרים - Trust Jewellery
+
+### תודה על פנייתך
+https://example.com/thank-you
+Trust Jewellery - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Trust Jewellery
+Trust Jewellery is an ultra-luxury Israeli online jewelry brand that positions itself on par with international high-end jewelry and watch maisons. The brand exudes timeless elegance, trust, and exclusivity, offering laboratory-grown diamonds with IGI certification, natural diamonds, gold jewelry, precious gemstones, and handcrafted luxury watches. The visual identity is built on a classic black, white, and gold palette with a clean, modern aesthetic. The brand's ethos is anchored in authenticity, certified quality (IGI & GIA), and an unwavering commitment to customer trust — communicated through a fully Hebrew, high-register, sales-oriented website that mirrors the prestige of global luxury brands.
+
+## Target Audience
+- רוכשי תכשיטים ושעוני יוקרה, מחפשי יהלומי מעבדה עם תעודות IGI ויהלומים טבעיים, אוהבי מותגי יוקרה בינלאומיים
+- רוכשי תכשיטי יוקרה
+- מחפשי יהלומי מעבדה
+- אוהבי מותגי יוקרה בינלאומיים
+
+## Industry
+Luxury Jewelry & Watches E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
